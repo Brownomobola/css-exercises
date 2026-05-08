@@ -1,1 +1,7 @@
 /* Add CSS Styling */
+.container .text {
+    background-color: hsl(64, 100%, 56%);
+    color: rgb(236, 17, 17);
+    font-size: 20px;
+    text-align: center;
+}
